@@ -1,0 +1,5 @@
+setup.py
+bazaar.egg-info/PKG-INFO
+bazaar.egg-info/SOURCES.txt
+bazaar.egg-info/dependency_links.txt
+bazaar.egg-info/top_level.txt
